@@ -12,4 +12,8 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 ##Deployment
 
+This is a simple web project.
+
 ##How to contribute
+
+Added text in order to have file in three stages.
