@@ -16,7 +16,7 @@ This is a simple web project.
 
 ##How to contribute
 
-Added text in order to have file in three stages.
+Please fork this repo.
 
 ###Copyright
 
