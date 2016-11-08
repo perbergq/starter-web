@@ -17,3 +17,7 @@ This is a simple web project.
 ##How to contribute
 
 Added text in order to have file in three stages.
+
+###Copyright
+
+20016 Git.Training.
