@@ -1,6 +1,7 @@
 #Starter Web Project
 
 This is a simple website project for showing how to use Git and GitHub toghether. Adding extra sentence, expanding the line with changes from myfreature branch.
+Emergency fixS!
 ##Introduction
 
 This is example is to show different parts of the Git repository and various commands using a web project.
